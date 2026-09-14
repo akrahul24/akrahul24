@@ -1,18 +1,86 @@
-# 💫 About Me:
-<br><br>Currently: Actively seeking full-time opportunities as an MIS Executive, Reporting Analyst, or entry-level Data Analyst — also open to Service Desk / IT Support roles.<br><br>Experience: 1+ year at Wipro Limited as a Data Associate on a Google-affiliated project, processing and validating large volumes of LiDAR and image datasets with a strong focus on data accuracy and quality control.<br><br>Education: B.Com (Computers), Satavahana University (2018–2021), followed by a Post Graduate Diploma in Computer Applications (PGDCA) with Grade A from Technical Skill Development Solutions, Hyderabad.<br><br>Background: Detail-oriented and analytically driven, with hands-on experience turning raw datasets into clear, actionable dashboards using Excel, SQL, and Power BI. Skilled in pivot tables, data cleaning, KPI tracking, and business insight generation — currently expanding into advanced SQL and DAX to build more sophisticated reporting solutions.<br><br>Goal: Looking to bring my data quality background and growing analytics skill set into a role where I can help teams make faster, better-informed decisions.<br><br>Location: Hyderabad, Telangana, India
+# Hi, I'm Rahul 👋
 
+### Excel | Operations | MIS | SQL | Power BI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-ak-395050246 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akularahul24@gmail.com) 
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akrahul24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akrahul24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akrahul24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a B.Com graduate with professional experience in data handling, validation, quality checking, and process-based operations. I am currently building my skills in Advanced Excel, SQL, Power BI, and Google Sheets to pursue opportunities in Operations, MIS, Reporting, and Excel-based roles.
 
 ---
-[![](https://komarev.com/ghpvc/?username=akrahul24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+- **Microsoft Excel:** Advanced Excel, VLOOKUP, IF, Pivot Tables, Data Cleaning, Conditional Formatting, Charts, Dashboards
+- **SQL:** MySQL, SELECT, WHERE, GROUP BY, ORDER BY, JOINs, Aggregate Functions
+- **Power BI:** Data Visualization, Interactive Dashboards, Data Transformation, Basic DAX
+- **Google Sheets:** Data Management, Formulas, Reporting, Collaboration
+- **Other:** Data Validation, Quality Checking, Reporting, Data Handling
+
+---
+
+## 📊 Projects
+
+### 1. Sales Performance Dashboard – Excel
+
+- Created an interactive Excel dashboard using sales data.
+- Used Pivot Tables, formulas, charts, and filters to analyze business performance.
+- Built KPI sections for Sales, Profit, and Quantity.
+- Applied data filtering and dynamic reporting techniques.
+
+### 2. HR Analytics Dashboard – Excel / Power BI
+
+- Analyzed employee data to understand workforce trends.
+- Created KPIs such as Total Employees, Active Employees, and Attrition Rate.
+- Used department, education, and other employee attributes for analysis.
+- Designed interactive dashboards for easy reporting.
+
+### 3. Pizza Sales Analysis – SQL / Power BI
+
+- Analyzed sales data using SQL queries and aggregations.
+- Used JOINs, GROUP BY, filtering, and aggregate functions.
+- Identified sales trends, popular products, and revenue performance.
+- Created visual reports to present business insights.
+
+---
+
+## 💼 Professional Experience
+
+### Wipro – Associate
+
+**Google Project | Data Annotation / Data Validation**
+
+- Worked with large datasets in a process-driven environment.
+- Performed data annotation, validation, and quality checks.
+- Used Excel and internal tools for data handling and tracking.
+- Maintained accuracy and quality standards while working with daily targets.
+- Supported team members and helped new joiners understand the process.
+
+---
+
+## 🎯 Career Objective
+
+I am looking for opportunities in **Operations, MIS, Reporting, Back Office, and Excel-based roles** where I can use my skills in data handling, reporting, Excel, SQL, and Power BI while continuing to grow professionally.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Excel & Dashboard Development
+- SQL & Database Queries
+- Power BI & Data Visualization
+- Business Reporting
+- Data Cleaning & Analysis
+
+---
+
+## 📂 Portfolio
+
+This repository contains my practice projects, dashboards, SQL queries, Excel workbooks, and reporting projects as I continue developing my technical and professional skills.
+
+---
+
+## 🤝 Let's Connect
+
+I am open to opportunities in:
+
+**Operations | MIS | Reporting | Excel | Back Office | Business Operations**
+
+Thank you for visiting my profile! 🚀
